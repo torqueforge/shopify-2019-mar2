@@ -12,13 +12,13 @@ You will need:
 Clone this repository:
 
 ```bash
-$ git clone git@github.com:torqueforge/$NAME_OF_CLASS.git
+$ git clone git@github.com:torqueforge/shopify-2019-mar2.git
 ```
 
 Change directories so that you are in the project:
 
 ```bash
-$ cd $NAME_OF_CLASS
+$ cd shopify-2019-mar2
 ```
 
 Install the dependencies:
